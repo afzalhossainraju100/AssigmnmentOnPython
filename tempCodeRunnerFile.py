@@ -88,4 +88,3 @@ if __name__ == '__main__':
 	except (KeyboardInterrupt, EOFError):
 		print('\nGoodbye')
 		sys.exit(0)
-
